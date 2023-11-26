@@ -5,7 +5,7 @@ atualmente estou cursando Engenharia de Software pela universidade FIAP.
 
 🔭 Meu projeto mais recente foi desenvolver um site para O Hospital das Clínicas apresentando nossa solução tecnológica.
 <br>
-<a href=" https://victorrodrigues16.github.io/Challenge-HC/">
+<a href="https://victorrodrigues16.github.io/Challenge-HC/">
     Visite o site
 </a>
 
