@@ -3,9 +3,9 @@
 > Me chamo Victor Rodrigues tenho 18 anos, sou um jovem completamente apaixonada por tecnologia <br>
 atualmente estou cursando Engenharia de Software pela universidade FIAP.
 
-🔭 Meu projeto mais recente foi desenvolver um site para O Hospital das Clínicas apresentando nossa solução tecnológica. Utilizando apenas HTML CSS e JAVASCRIPT
+🔭 Meu projeto mais recente foi desenvolver um site para O Hospital das Clínicas apresentando nossa solução tecnológica. Utilizando HTML, CSS, JAVASCRIPT, REACT+VITE
 <br>
-<a href="https://victorrodrigues16.github.io/Challenge-HC/">
+<a href="https://victorrodrigues16.github.io/ICR-Conecta/">
     Visite o site
 </a>
 
